@@ -1,0 +1,12 @@
+.oddNumbers {
+    background-color: salmon;
+    font-family: Verdana, Impact, sans-serif;
+}
+#blueText {
+    color: blue;
+    font-size: 36px;
+}
+
+.oddNumbers#fontSize {
+    font-size: 124px;
+}
