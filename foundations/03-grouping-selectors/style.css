@@ -1,0 +1,13 @@
+.border {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', 'Times', 'serif';
+}
+
+.blackBack {
+    background-color: black;
+    color: white;
+}
+
+.yellowBack {
+    background-color: yellow;
+}
